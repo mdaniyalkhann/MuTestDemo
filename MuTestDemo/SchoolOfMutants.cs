@@ -3,9 +3,9 @@
     public class SchoolOfMutants
     {
         private readonly Log _log;
-        private const int SomeConst = 11;
+        private const int SomeConst = 9;
         private const int AnotherConst = 2;
-        private const int SomeFactor = -2;
+        private const int SomeFactor = -1;
 
         public SchoolOfMutants(Log log)
         {
